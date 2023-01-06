@@ -41,7 +41,7 @@ body,
   width: 25rem;
   height: 16rem;
 }
-:where(button > img) {
+button > img {
   width: 1.6em;
   margin-right: 0.4em;
 }
