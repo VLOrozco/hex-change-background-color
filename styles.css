@@ -38,7 +38,7 @@ body,
 /* general styles */
 #container {
   flex-direction: column;
-  width: 16rem;
+  width: 25rem;
   height: 16rem;
 }
 :where(button > img) {
