@@ -1,0 +1,48 @@
+# Hex Change Background Color with JavaScript
+
+JavaScript Project | Change background color and display color with hex number when the generate button is clicked.
+
+## Table of Contents
+
+- [Hex Change Background Color with JavaScript](#hex-change-background-color-with-javascript)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Site Link](#site-link)
+  - [What I Learned](#what-i-learned)
+  - [Author](#author)
+
+## General Information
+
+This is Project #2 from [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
+The project objectives is to make a random hex value created from an array of all the possible different hex values and concatenate 6 different values to a `string` that begun with the `#` character.
+
+## Screenshots
+
+![]()
+
+![]()
+
+![]()
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+
+## Site Link
+
+
+
+## What I Learned
+
+
+
+## Author
+
+- Github - [Veronica L. Orozco](https://github.com/VLOrozco)
+- Frontend Mentor - [@VLOrozco](https://www.frontendmentor.io/profile/VLOrozco)
+- Codecademy - [orozcov3](https://www.codecademy.com/profiles/orozcoV3)
