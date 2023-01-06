@@ -39,6 +39,17 @@ The project objectives is to make a random hex value created from an array of al
 
 ## What I Learned
 
+This was a fun mini project to create. It was created with flexbox to center the content and text in the center of the screen view. A column flex-direction was given to the container to stack the title and button vertically.
+
+In this project, I learned how to use the `toString()` and `substring()` methods to convert characters into strings to use in developing a six-digit random hex color. 
+```js
+const generateColor = () => {
+  const randomColor = Math.random().toString(16).substring(2,8);
+  document.body.style.backgroundColor = "#" + randomColor;
+  hexValue.innerHTML = "#" + randomColor;
+};
+
+```
 
 
 ## Author
