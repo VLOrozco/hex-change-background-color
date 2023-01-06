@@ -32,20 +32,18 @@ The project objectives is to make a random hex value created from an array of al
 - CSS
 - JavaScript
 
-
 ## Site Link
 
-
+>**Live Site: [Change Background Color Site](https://vlorozco.github.io/hex-change-background-color/)**
 
 ## What I Learned
 
 This was a fun mini project to create. It was created with flexbox to center the content and text in the center of the screen view. A column flex-direction was given to the container to stack the title and button vertically.
 
-In this project, I learned how to use the `toString()` and `substring()` methods to convert characters into strings to use in developing a six-digit random hex color. 
+In this project, I learned how to use the `toString()` and `substring()` methods to convert characters into strings to use in developing a six-digit random hex color.
 
 While researching, I have seen other solutions create the random hex manually creating a variable that contained an array of numbers from 0-9 and letters from A-F.
 I came across a unique approach to attaining the same characters through a video by  [ZinoTrust Academy](https://www.youtube.com/watch?v=MrnzrbaCY7U&t=3667). He clearly breaks down how `Math.random()` returns a number, that must be converted `toString()` in order to use alpha characters in addition to numbers. This is done by adding the number 16 as a parameter to the `toString()`. He further explains that to return only the first six digits of the `Math.random()` method, a `substring()` is called to include only characters between index 2-6 of the returned string.
-
 
 ```js
 const generateColor = () => {
@@ -55,7 +53,6 @@ const generateColor = () => {
 };
 
 ```
-
 
 ## Author
 
