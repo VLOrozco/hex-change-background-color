@@ -20,11 +20,11 @@ The project objectives is to make a random hex value created from an array of al
 
 ## Screenshots
 
-![]()
+![Hex color #FFFFFF with corresponding background color of white](./assets/hex-color-ffffff.png)
 
-![]()
+![Hex color #FFFFFF with corresponding background color of white](./assets/hex-color-4bd154.png)
 
-![]()
+![Hex color #FFFFFF with corresponding background color of white](./assets/hex-color-3dc7f0.png)
 
 ## Technologies
 
